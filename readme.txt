@@ -13,7 +13,7 @@ All provided download links are for personal use. Redistribution of these links 
 
 Working features...
 
-Before Goddess of Destruction:
+Before Goddess of Destruct
 -Fantasy Isle Parade
 -Pailaka Injured Dragon
 -All Seven Sign Quests
