@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="RuinsOfDespair">
+		<group>
+			<npc id="33087" x="-19120" y="136816" z="-3760" respawnTime="60sec" /> <!-- Teleport Device -->
+			<npc id="33178" x="-19268" y="136854" z="-3760" heading="19408" respawnTime="60sec" /> <!-- Silvan - Guard -->
+			<npc id="33430" x="-20746" y="136445" z="-3896" heading="61052" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-20782" y="136940" z="-3896" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-20763" y="136893" z="-3896" heading="8948" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-20736" y="136383" z="-3896" heading="10160" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-20558" y="137262" z="-3896" heading="60648" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-20548" y="137219" z="-3896" heading="11716" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-20496" y="137226" z="-3896" heading="5324" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-20527" y="137336" z="-3896" heading="50968" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-18983" y="136799" z="-3760" heading="21164" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-18626" y="136872" z="-3736" heading="32296" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-18936" y="137004" z="-3760" heading="50420" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33430" x="-18951" y="136971" z="-3760" heading="13092" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33510" x="-8142" y="143228" z="-3424" heading="52857" respawnTime="60sec" /> <!-- Lef - Guard -->
+			<npc id="33432" x="-20518" y="137777" z="-3895" heading="-6452" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="33432" x="-20563" y="135333" z="-3898" heading="22532" respawnTime="60sec" /> <!-- Guard -->
+			<npc id="24380" x="-18447" y="142888" z="-3872" heading="32997" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-17463" y="143042" z="-3895" heading="64668" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-17514" y="142980" z="-3898" heading="64013" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17435" y="142877" z="-3906" heading="55976" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17319" y="143042" z="-3897" heading="62516" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17309" y="142867" z="-3905" heading="48870" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17393" y="143157" z="-3894" heading="51085" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17543" y="143147" z="-3890" heading="18781" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-18360" y="143542" z="-3848" heading="39404" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-18365" y="142930" z="-3885" heading="28278" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-18354" y="142804" z="-3878" heading="59238" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18503" y="143052" z="-3873" heading="52964" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18590" y="142935" z="-3876" heading="42482" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18318" y="143020" z="-3891" heading="3159" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18259" y="142894" z="-3882" heading="53719" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18459" y="142983" z="-3882" heading="28400" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-17439" y="142966" z="-3896" heading="37891" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-18311" y="143505" z="-3883" heading="11891" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-18383" y="143460" z="-3871" heading="20293" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18271" y="143458" z="-3894" heading="65349" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18447" y="143701" z="-3842" heading="22922" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18327" y="143662" z="-3871" heading="62258" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18278" y="143594" z="-3883" heading="55664" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18469" y="143528" z="-3850" heading="36238" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-17415" y="144190" z="-3904" heading="22165" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-18100" y="144078" z="-3875" heading="50516" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-18100" y="144202" z="-3871" heading="16383" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18239" y="144114" z="-3841" heading="38654" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18167" y="143962" z="-3870" heading="53073" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18006" y="144067" z="-3891" heading="6027" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18029" y="144192" z="-3885" heading="48256" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18185" y="144124" z="-3855" heading="45812" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-18150" y="144210" z="-3848" heading="3104" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-18323" y="144598" z="-3823" heading="13878" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-18347" y="144517" z="-3823" heading="46147" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18114" y="144591" z="-3834" heading="3207" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18232" y="144583" z="-3828" heading="33474" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18277" y="144687" z="-3818" heading="20643" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18226" y="144481" z="-3827" heading="51683" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18210" y="144669" z="-3825" heading="15498" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-18278" y="144461" z="-3816" heading="21807" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-17347" y="144124" z="-3911" heading="48920" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-17448" y="144121" z="-3911" heading="33077" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17371" y="144053" z="-3911" heading="57990" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17208" y="144133" z="-3912" heading="4758" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17290" y="144220" z="-3911" heading="24267" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17374" y="144308" z="-3911" heading="24333" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17297" y="144081" z="-3911" heading="57730" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-16934" y="144771" z="-3816" heading="35088" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-17044" y="144852" z="-3832" heading="22295" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-17011" y="144755" z="-3844" heading="52572" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17080" y="144793" z="-3841" heading="49151" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-16836" y="144901" z="-3804" heading="4346" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-16836" y="144755" z="-3824" heading="49151" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-16931" y="144692" z="-3849" heading="38875" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-16914" y="144934" z="-3813" heading="15652" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-16552" y="145623" z="-3696" heading="30193" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-16587" y="145491" z="-3723" heading="11948" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-16652" y="145575" z="-3726" heading="23253" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-16440" y="145515" z="-3703" heading="52135" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-16403" y="145670" z="-3694" heading="13939" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-16537" y="145766" z="-3697" heading="26283" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-16660" y="145699" z="-3718" heading="11769" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-16536" y="145572" z="-3711" heading="5911" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-17914" y="145495" z="-3776" heading="26009" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-17804" y="145371" z="-3801" heading="61104" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-17835" y="145462" z="-3795" heading="19808" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17989" y="145334" z="-3766" heading="1933" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-18042" y="145430" z="-3765" heading="21645" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17917" y="145578" z="-3784" heading="9346" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17765" y="145393" z="-3805" heading="29466" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-17940" y="145395" z="-3775" heading="32648" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-19158" y="145205" z="-3776" heading="34162" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-19203" y="145325" z="-3787" heading="27931" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-19044" y="145387" z="-3770" heading="45379" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19191" y="145426" z="-3776" heading="30063" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19292" y="145232" z="-3808" heading="1680" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19143" y="145054" z="-3824" heading="56421" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19052" y="145207" z="-3798" heading="10787" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19129" y="145316" z="-3782" heading="22798" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-19621" y="144114" z="-3816" heading="414" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-20006" y="145480" z="-3786" heading="5636" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-20050" y="145564" z="-3768" heading="21416" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20182" y="145246" z="-3794" heading="45048" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20064" y="145302" z="-3802" heading="41172" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19898" y="145466" z="-3790" heading="34290" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20231" y="145522" z="-3760" heading="31030" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20215" y="145361" z="-3774" heading="50185" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-20581" y="144122" z="-3816" heading="23132" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-21131" y="145918" z="-3756" heading="34510" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-21110" y="145821" z="-3756" heading="51375" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-21029" y="145999" z="-3756" heading="11988" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-21224" y="145980" z="-3756" heading="33781" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-21326" y="145823" z="-3757" heading="43142" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-21228" y="145742" z="-3756" heading="14877" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-21229" y="145889" z="-3756" heading="60327" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-20129" y="145468" z="-3752" heading="56367" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-20425" y="144175" z="-3848" heading="56031" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-20542" y="144194" z="-3839" heading="31088" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20611" y="144263" z="-3843" heading="24575" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20648" y="144130" z="-3830" heading="46321" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20562" y="144008" z="-3828" heading="47997" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20418" y="144080" z="-3846" heading="3475" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20436" y="144279" z="-3842" heading="4482" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-21185" y="145824" z="-3752" heading="65317" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-19727" y="144194" z="-3825" heading="51052" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-19704" y="144109" z="-3823" heading="51908" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19552" y="144239" z="-3824" heading="7379" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19537" y="144059" z="-3823" heading="50019" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19628" y="144018" z="-3823" heading="37183" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19812" y="144189" z="-3833" heading="23630" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-19662" y="144298" z="-3823" heading="12082" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-21919" y="144331" z="-3816" heading="13944" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-21902" y="144429" z="-3824" heading="43699" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-21889" y="144509" z="-3823" heading="29699" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-22037" y="144444" z="-3824" heading="37084" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-22049" y="144318" z="-3824" heading="48161" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-21948" y="144221" z="-3823" heading="57554" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-21812" y="144279" z="-3823" heading="11094" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-21771" y="144407" z="-3824" heading="13150" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-22231" y="143615" z="-3840" heading="33694" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-22199" y="143712" z="-3833" heading="43886" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-22155" y="143809" z="-3826" heading="9593" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-22306" y="143759" z="-3834" heading="36103" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-22350" y="143598" z="-3855" heading="46369" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-22234" y="143514" z="-3861" heading="58998" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-22116" y="143531" z="-3850" heading="1492" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-22091" y="143681" z="-3833" heading="14661" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-20655" y="143371" z="-3816" heading="50864" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-20773" y="143342" z="-3826" heading="40014" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-20857" y="143310" z="-3830" heading="38451" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20734" y="143260" z="-3839" heading="61508" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20591" y="143289" z="-3832" heading="2086" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20618" y="143484" z="-3823" heading="17819" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20761" y="143467" z="-3823" heading="34002" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-20725" y="143373" z="-3823" heading="52966" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-15068" y="144765" z="-3672" heading="7418" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-13342" y="143604" z="-3654" heading="19367" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-13246" y="143672" z="-3642" heading="6428" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-13487" y="143674" z="-3644" heading="32681" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-13324" y="143498" z="-3676" heading="54735" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-13293" y="143807" z="-3624" heading="54223" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-13476" y="143853" z="-3624" heading="30199" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-13420" y="143540" z="-3667" heading="47959" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-15176" y="143981" z="-3688" heading="58" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-13330" y="144683" z="-3605" heading="11547" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-13370" y="144786" z="-3605" heading="20247" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-13415" y="144617" z="-3605" heading="46120" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-13212" y="144654" z="-3605" heading="1880" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-13157" y="144790" z="-3605" heading="12375" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-13232" y="144899" z="-3605" heading="22670" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-13281" y="144739" z="-3605" heading="46052" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-14179" y="143407" z="-3672" heading="27466" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-14132" y="145283" z="-3605" heading="41827" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-14229" y="145318" z="-3605" heading="29156" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14160" y="145210" z="-3605" heading="55081" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14037" y="145199" z="-3605" heading="8600" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14077" y="145380" z="-3605" heading="23986" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14320" y="145184" z="-3605" heading="39847" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14155" y="145095" z="-3605" heading="60376" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-13379" y="143739" z="-3624" heading="35154" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-14906" y="144795" z="-3678" heading="62663" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-14946" y="144883" z="-3687" heading="20833" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-15130" y="144852" z="-3692" heading="34508" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-15031" y="144750" z="-3690" heading="57188" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-15176" y="144686" z="-3692" heading="37103" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-15005" y="144666" z="-3683" heading="3062" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14871" y="144711" z="-3668" heading="39511" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-13291" y="144797" z="-3600" heading="3549" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-15045" y="144047" z="-3680" heading="8295" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-15125" y="144135" z="-3684" heading="24079" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-15103" y="143891" z="-3692" heading="16383" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-15264" y="144031" z="-3692" heading="54149" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-15026" y="144125" z="-3673" heading="1352" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-15280" y="143885" z="-3692" heading="40664" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-15099" y="144021" z="-3689" heading="6721" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24380" x="-14203" y="145199" z="-3600" heading="32461" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24380" x="-14329" y="143453" z="-3684" heading="59711" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
+			<npc id="24381" x="-14200" y="143560" z="-3661" heading="5959" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14282" y="143326" z="-3690" heading="37421" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14432" y="143421" z="-3686" heading="41360" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14345" y="143567" z="-3660" heading="821" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14252" y="143451" z="-3683" heading="20501" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24381" x="-14112" y="143340" z="-3690" heading="58543" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+			<npc id="24382" x="-22144" y="142391" z="-3840" heading="42666" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-22028" y="142351" z="-3843" heading="62072" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-21981" y="142491" z="-3843" heading="13093" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-22101" y="142627" z="-3845" heading="31004" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-22203" y="142496" z="-3840" heading="12364" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-21202" y="141338" z="-3874" heading="832" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-21098" y="141185" z="-3881" heading="56520" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-21189" y="141100" z="-3873" heading="34266" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-21325" y="141110" z="-3866" heading="24575" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-21337" y="141276" z="-3874" heading="11877" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-20954" y="140668" z="-3863" heading="48141" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-20911" y="140494" z="-3851" heading="63477" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-20809" y="140570" z="-3859" heading="13167" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20838" y="140725" z="-3882" heading="28974" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-21013" y="140708" z="-3848" heading="38024" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-20905" y="140153" z="-3836" heading="58903" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-20805" y="140004" z="-3834" heading="52363" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-20899" y="139947" z="-3836" heading="30771" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20903" y="140050" z="-3839" heading="2821" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20745" y="140040" z="-3832" heading="52541" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-20207" y="140248" z="-3838" heading="11996" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-20279" y="140399" z="-3847" heading="22237" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-20330" y="140147" z="-3832" heading="47512" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20176" y="140106" z="-3839" heading="4233" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20053" y="140319" z="-3845" heading="13577" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-19914" y="140929" z="-3840" heading="15305" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-19968" y="141102" z="-3840" heading="20642" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-19770" y="141129" z="-3840" heading="50785" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20046" y="140914" z="-3843" heading="32767" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-19838" y="141145" z="-3840" heading="22008" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-20037" y="139635" z="-3807" heading="60053" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-19996" y="139455" z="-3813" heading="43595" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-20127" y="139515" z="-3806" heading="23775" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20281" y="139635" z="-3812" heading="30913" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20146" y="139741" z="-3822" heading="5796" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-20557" y="141501" z="-3840" heading="11794" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-20376" y="141526" z="-3840" heading="62910" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-20382" y="141381" z="-3843" heading="44845" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20493" y="141494" z="-3843" heading="17803" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20481" y="141674" z="-3840" heading="12509" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-17650" y="139693" z="-3870" heading="828" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-17458" y="139594" z="-3864" heading="58584" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-17350" y="139733" z="-3861" heading="15849" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-17402" y="139819" z="-3868" heading="25115" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-17530" y="139728" z="-3868" heading="49918" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-16779" y="139536" z="-3870" heading="64804" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-16634" y="139616" z="-3876" heading="9183" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-16789" y="139667" z="-3874" heading="33321" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-16899" y="139656" z="-3869" heading="33974" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-16726" y="139429" z="-3866" heading="61693" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-16150" y="139684" z="-3863" heading="6282" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-16100" y="139840" z="-3868" heading="29090" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-16202" y="139849" z="-3873" heading="39815" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-16277" y="139730" z="-3875" heading="46502" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-16034" y="139667" z="-3846" heading="4441" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-15698" y="140161" z="-3825" heading="15714" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-15731" y="140340" z="-3835" heading="20126" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-15808" y="140221" z="-3842" heading="47166" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-15814" y="140111" z="-3840" heading="51153" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-15599" y="140225" z="-3818" heading="16036" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-16048" y="140849" z="-3862" heading="26016" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-16220" y="140863" z="-3868" heading="36746" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-16276" y="140724" z="-3876" heading="50369" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-16205" y="140656" z="-3878" heading="64616" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-16024" y="140670" z="-3869" heading="5140" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-17080" y="140639" z="-3876" heading="39039" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-17148" y="140489" z="-3876" heading="50180" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-17008" y="140478" z="-3876" heading="5981" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-16938" y="140553" z="-3876" heading="14420" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-17038" y="140651" z="-3876" heading="33229" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-18940" y="142095" z="-3853" heading="32767" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-19082" y="142125" z="-3846" heading="27304" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-18979" y="142204" z="-3859" heading="703" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-18976" y="142045" z="-3844" heading="42576" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-19103" y="142037" z="-3840" heading="27021" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-18250" y="141242" z="-3872" heading="53612" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-18223" y="140990" z="-3861" heading="46566" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-18321" y="140849" z="-3864" heading="24167" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-18331" y="140984" z="-3862" heading="15006" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-18340" y="141164" z="-3872" heading="20938" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-18682" y="139556" z="-3894" heading="49627" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-18788" y="139658" z="-3894" heading="24957" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-18800" y="139717" z="-3896" heading="12309" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-18698" y="139815" z="-3893" heading="3372" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-18599" y="139788" z="-3888" heading="50218" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-18631" y="139571" z="-3890" heading="46265" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-19375" y="139701" z="-3862" heading="34065" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-19494" y="139624" z="-3859" heading="42195" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-19321" y="139544" z="-3884" heading="65460" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-19257" y="139544" z="-3892" heading="65460" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-19435" y="139494" z="-3877" heading="35578" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-18740" y="141566" z="-3871" heading="10331" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-18773" y="141421" z="-3863" heading="46805" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-18677" y="141406" z="-3881" heading="5721" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-18615" y="141613" z="-3895" heading="24494" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-18683" y="141535" z="-3884" heading="44792" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-19989" y="138936" z="-3852" heading="35575" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-20027" y="139055" z="-3847" heading="11382" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-19919" y="139036" z="-3855" heading="57301" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-19876" y="138993" z="-3865" heading="57301" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-19735" y="139003" z="-3859" heading="13436" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24382" x="-19810" y="141725" z="-3841" heading="4101" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-19766" y="141611" z="-3843" heading="48526" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24382" x="-19912" y="141590" z="-3840" heading="29819" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie -->
+			<npc id="24383" x="-19949" y="141601" z="-3843" heading="29819" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+			<npc id="24383" x="-19905" y="141497" z="-3841" heading="55743" respawnTime="60sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+		</group>
+	</spawn>
+</list>
